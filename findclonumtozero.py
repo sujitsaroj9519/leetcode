@@ -21,6 +21,9 @@ class Solution:
             return a[0]
         else:
             return a[0]
+        
+obj = Solution()
+print(obj.findClosestNumber([2,-1,1]))
 
 
 
